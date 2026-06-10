@@ -143,7 +143,9 @@ export const PROFILES = [
     links: {
       linkedin: "https://www.linkedin.com/in/teima-rawan-safouan-7502442b1",
       github: "https://github.com/rawan-holberton",
-    name: "Saniez S.",           // ton prénom + initiale du nom
+},
+},
+{    name: "Saniez S.",           // ton prénom + initiale du nom
     accent: "#ff6a00",           // couleur de ton profil (voir palette ci-dessous)
     search: "CDD, CDI",        // type de contrat recherché : "Alternance", "Stage", "CDI"
     role: "Dev Back-end, Android",       // ton intitulé de poste   // rythme d'alternance (ou "" si pas concerné)
